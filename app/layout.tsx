@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Car Sales",
+  title: "Rent Cars",
   description: "Discover the best cars in the world",
 };
 
